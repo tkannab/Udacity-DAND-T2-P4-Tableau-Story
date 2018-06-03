@@ -47,7 +47,7 @@ Now, on to the details!
 First, you will choose a data set from the [Data Set Options](https://docs.google.com/document/d/1w7KhqotVi5eoKE3I_AZHbsxdr-NmcWsLTIiZrpxWx4w/pub?embedded=true) document. Then, create a visualization that communicates the findings. document or find a data set to explore and visualize. You should choose a data set based on your prior experiences in programming and working with data. The data set you choose will not increase or decrease your chances of passing this project.
 
 ### Step Two - Get Organized
-Eventually you�ll want to submit your project and share it. To do so, you need to create a zip folder that includes the following:
+Eventually you'll want to submit your project and share it. To do so, you need to create a zip folder that includes the following:
 
 - **Write-up**: PDF or Markdown file that includes links to your Tableau Public workbooks, published online, and a write-up with four sections. See [HERE](https://onlinehelp.tableau.com/current/pro/desktop/en-us/publish_workbooks_tableaupublic.html) if you need help publishing your Tableau Public Workbook.
 	- **Summary**: in no more than 4 sentences, briefly introduce your data visualization and add any context that can help readers understand it
@@ -88,8 +88,8 @@ When should you save your files? You should save your files whenever you have a 
 
 Your goal is to build evidence that you have shared your visualization, received feedback, and responded to that feedback. **You need to submit an initial version of your data visualization and the final version with the corresponding write-up**.
 
-###Step Seven - Review
-Use the [Project Rubric](https://review.udacity.com/#!/rubrics/948/view) to review your project. If you are happy with your submission, then you�re ready to submit your project. If you see room for improvement, keep working to improve your project!
+### Step Seven - Review
+Use the [Project Rubric](https://review.udacity.com/#!/rubrics/948/view) to review your project. If you are happy with your submission, then you're ready to submit your project. If you see room for improvement, keep working to improve your project!
 
 ## Project Deliverable(s)
 
